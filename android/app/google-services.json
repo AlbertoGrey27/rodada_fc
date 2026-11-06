@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "36969543661",
+    "project_id": "agenda-de-jogos-d89f2",
+    "storage_bucket": "agenda-de-jogos-d89f2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:36969543661:android:22c65ad9f4efecab9199e4",
+        "android_client_info": {
+          "package_name": "com.example.rodada_fc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy1rQ0G03SVoeAEUfmC-gbTwrhUgteEpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
